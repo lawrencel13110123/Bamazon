@@ -39,7 +39,7 @@ Once completed, you will see a `node_modules` folder in your local repo.
 
 The dependencies should now be in the local `node_modules` folder.
 
-###Step 3: Set up MySQL database 
+### Step 3: Set up MySQL database 
 
  - Open the `schema.sql` file via MySQL 
  - OR you can open `schema.sql` via Sublime Text Editor and copy paste the code into MySQL 
