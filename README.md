@@ -29,11 +29,11 @@ The Bamazon project and its files should now be in your project folder.
 
 Install the following dependencies listed in the `package.json` file: 
 
- -  [inquirer](https://www.npmjs.com/package/inquirer)
+ - [inquirer](https://www.npmjs.com/package/inquirer)
  - [mysql](https://www.npmjs.com/package/mysql)
  - [console.table](https://www.npmjs.com/package/console.table)
 
-> npm install 'package name' --save
+> npm install
 
 Once completed, you will see a `node_modules` folder in your local repo.
 
