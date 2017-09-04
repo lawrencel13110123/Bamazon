@@ -102,7 +102,7 @@ connection.connect(function(err) {
 
 
 <a name="supervisor"></a>
-##Supervisor View
+## Supervisor View
  1. Open up `terminal`
  2. Use bash command `cd` to direct to your local repo folder 
  3. In `terminal` enter `node manager.js`
